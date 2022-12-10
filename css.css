@@ -1,0 +1,87 @@
+.container {
+  width: 100%;
+  grid-gap: 10rem;
+  height: 100vh;
+  background: url(/fondo.jpg) no-repeat center;
+}
+.cero {
+  background-color: #00aae4;
+  border-bottom: #000 solid 3px;
+  margin-bottom: 7px;
+}
+.search {
+  width: 80%;
+  text-align: center;
+  border: none;
+  font-size: 2rem;
+  border-radius: 10px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+input {
+  width: 70%;
+  font-size: 1rem;
+  padding: 0.4rem;
+  border-radius: 5rem;
+  border: 0.1rem solid #000;
+  margin: auto;
+}
+button {
+  font-size: 1rem;
+  padding: 0.6rem;
+  border-radius: 3rem;
+}
+
+h5 {
+  text-align: center;
+  margin: 10px;
+  font-size: 20px;
+  background: rgba(0, 0, 0, 0.26);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(14.5px);
+  color: aliceblue;
+}
+.one {
+  height: 110px;
+  margin-bottom: 25px;
+}
+.two {
+  height: 110px;
+  margin-bottom: 25px;
+}
+.three {
+  height: 110px;
+  margin-bottom: 25px;
+}
+.temp1 {
+  border-bottom: #8067ff 2px solid;
+}
+.hum1 {
+  border: #8067ff solid 3px;
+  border-bottom: none;
+}
+.velocidad1 {
+  
+}
+.ciudad1 {
+  
+}
+.hora1 {
+   
+}
+#img {
+   
+}
+.img1 {
+  background: rgba(255, 255, 255, 0.32);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(9.8px);
+  width: 101px;
+  height: 101px
+}
+.estado1 {
+  
+}
